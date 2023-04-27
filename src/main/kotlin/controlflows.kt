@@ -7,4 +7,11 @@ fun main(args: Array<String>) {
     }else{
         println("The number is greater or equal ")
     }
+
+    val marks=29
+    if (marks<30){
+        println("Father will be angry")
+    }else{
+        println("Father will give me money")
+    }
 }
