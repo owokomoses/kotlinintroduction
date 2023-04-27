@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     println("The sum is " + num1+num2)
     println("The division is " + num1/num2)
 
-    //immutable variablr
+    //immutable variable
     val  mimi="Mr .moses"
 //    mimi="Mr moses"
     println("My name is $mimi")
